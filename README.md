@@ -19,8 +19,7 @@ A modern, secure, and student-friendly **banking web app** built with **Python**
 
 ## 📸 UI Preview
 
-![Homepage Screenshot](screenshots/homepage.png)
-*Sample UI for home screen. Includes cards, alignment, and theme.*
+![home page.png]
 
 ---
 
