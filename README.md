@@ -51,12 +51,34 @@ A modern, secure, and student-friendly **banking web app** built with **Python**
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repository
+<pre>
+  ```bash
+git clone https://github.com/siddhijaiswal08/Banking-System.git
+cd up-express-banking ```
+</pre>
 
-```bash
-git clone https://github.com/your-username/up-express-banking.git
-cd up-express-banking
 
-<pre> ### 2. Install Requirements ```bash pip install -r requirements.txt ``` </pre>
+### 2. Install Requirements
+<pre>
+   ```bash
+pip install -r requirements.txt ``` 
+</pre>
+
+### 3. Run the App
+<pre>
+  streamlit run app.py
+</pre>
+
+ ### 📁 Project Structure
+ up-express-banking/
+│
+├── app.py     # Main Streamlit app
+├── accounts.json            # Stored user account data
+├── requirements.txt         # List of dependencies
+├── screenshots/             # UI screenshots
+└── README.md                # This file
+
+### 📧 Contact & Support
+For feedback or support, please reach out at support@upbank.com
 
 
- 
